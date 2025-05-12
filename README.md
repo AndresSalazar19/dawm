@@ -27,7 +27,7 @@ Odoo es una suite de aplicaciones empresariales de código abierto que cubren to
 - **Bases de datos**: MySQL, PostgreSQL, SQLite
 - **Herramientas**: Power BI, Docker, Databricks
 
-## Capturas de Pantalla
+## Capturas de Pantallas
 ### Proyecto: Sistema de ayuda de mesa utilizando Odoo
 ![Sistema de ayuda de mesa](ruta/a/imagen/tictactoe.png)
 
